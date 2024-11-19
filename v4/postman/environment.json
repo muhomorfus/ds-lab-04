@@ -4,7 +4,7 @@
 	"values": [
 		{
 			"key": "baseUrl",
-			"value": "http://212.193.27.112/avknyazhev/gatewa",
+			"value": "http://212.193.27.112/avknyazhev/gateway",
 			"enabled": true
 		}
 	],
