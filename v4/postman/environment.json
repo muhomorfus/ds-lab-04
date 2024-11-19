@@ -3,8 +3,8 @@
 	"name": "[rsoi][lab4] Library System",
 	"values": [
 		{
-			"key": "http://212.193.27.112/avknyazhev/gateway",
-			"value": "",
+			"key": "baseUrl",
+			"value": "http://212.193.27.112/avknyazhev/gatewa",
 			"enabled": true
 		}
 	],
